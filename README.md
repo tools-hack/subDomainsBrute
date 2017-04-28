@@ -2,7 +2,6 @@
 
 A simple and fast sub domain brute tool for pentesters. It can rearch as fast as 1000 DNS queries per second.
 
-这个脚本的主要目标是发现其他工具无法探测到的域名, 如Google，aizhan，fofa。高频扫描每秒DNS请求数可超过1000次。
 
 ## Change Log (Jan 10, 2017) ##
 * Add support for extremely huge dict like all 6-letter sub names
